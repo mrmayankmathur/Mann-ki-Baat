@@ -3,7 +3,7 @@
   # Mann ki Baat: AI-Generated Insightful Discussions
   <br />
     <a href="https://youtu.be/zfAb95tJvZQ" target="_blank">
-      <img src="https://github.com/adrianhajdin/jsm_podcastr/assets/151519281/f61a58c2-f144-41f7-8bc9-5ad14752ceb3" alt="Project Banner">
+      <img width="2048" height="591" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/d9bd4c6e-73cb-4590-b987-839ea824d8ea" />
     </a>
   <br />
 
