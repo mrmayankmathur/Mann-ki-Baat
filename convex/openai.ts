@@ -5,6 +5,7 @@ import OpenAI from "openai";
 import { SpeechCreateParams } from "openai/resources/audio/speech.mjs";
 
 const openai = new OpenAI({
+  baseURL: "https://models.github.ai/inference",
   apiKey: process.env.OPENAI_API_KEY,
 })
 
